@@ -1,4 +1,4 @@
-# Hi there 👋(CUDA/TensorRT/OpenVino) MLC
+# Hi there 👋
 - 🔭 I’m currently working on knowledge distillation/Mutual learning/Few shot learning/ISTD/Object Detection
 - 🌱 I’m currently learning CUDA/TensorRT/C++/NCNN
 - 👯 I’m looking to collaborate on model deployment
