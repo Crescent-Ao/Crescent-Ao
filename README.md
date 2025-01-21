@@ -7,4 +7,4 @@
  # TODO LIST
  - DEPLOY AOOD
  - QUANT DEMO (PTQ QAT)
- - Try to Learn MMRotate
+ - Thanks Cursor
